@@ -1,0 +1,1 @@
+This folder contains utility functions and helper classes that are used throughout the Agentic AI project to support various operations and improve code reusability.

@@ -1,0 +1,1 @@
+This folder stores prompt templates, prompt histories, and related data used by agents to generate or process language tasks.

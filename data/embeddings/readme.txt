@@ -1,0 +1,1 @@
+This folder is dedicated to storing vector embeddings generated or used by the Agentic AI system for tasks like semantic search or clustering.

@@ -1,0 +1,1 @@
+This folder contains the core logic and classes for agent functionalities. Implement your agent behaviors and main workflows here.

@@ -1,0 +1,1 @@
+This folder contains example scripts that demonstrate how to use and integrate the different components of the Agentic AI project.

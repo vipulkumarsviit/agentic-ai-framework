@@ -1,0 +1,1 @@
+This directory contains the core source code for the Agentic AI project. Each subfolder organizes different functionalities, such as utility functions, agent logic, and tools used by the agents.
